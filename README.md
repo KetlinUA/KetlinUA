@@ -18,10 +18,7 @@
 ## 📫 Контакты
 
 - Email: your.email@example.com  
-- Telegram: [@yourusername](https://t.me/yourusername)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-
+- Telegram: [@yourusername](https://t.me/KetlinUA)  
 ---
 
 С нетерпением жду интересных проектов и сотрудничества! 🚀
