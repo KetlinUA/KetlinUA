@@ -16,9 +16,8 @@
 ---
 
 ## 📫 Контакты
-
-- Email: your.email@example.com  
-- Telegram: [@yourusername](https://t.me/KetlinUA)  
+  
+- Telegram: [@KetlinUA](https://t.me/KetlinUA)  
 ---
 
 С нетерпением жду интересных проектов и сотрудничества! 🚀
